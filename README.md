@@ -5,8 +5,6 @@
 ![PM2](https://img.shields.io/badge/PM2-Process%20Manager-blue)
 ![Status](https://img.shields.io/badge/Deployment-Success-brightgreen)
 
-## Project Description
-
 ## Project Overview
 
 This project demonstrates the deployment of a **Next.js authentication application** in a production-ready environment.
